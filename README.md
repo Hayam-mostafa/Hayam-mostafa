@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&pause=1000&lines=Hi,+I'm+Hayam!;Welcome+to+my+GitHub+Profile+😊" />
 </h1>
 
-## About Me
+## About Me 👩‍💻
 
 <p align="left">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" align="right" />
@@ -31,7 +31,7 @@
 </div>
 
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## Connect with me 📧
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 
 
-## My GitHub Stats 📊
+## My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <table>
   <tr>
     <td>
