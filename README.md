@@ -72,7 +72,7 @@
     </td>
     <td>
       <a href="https://github.com/Hayam-mostafa">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayam-mostafa&layout=compact&langs_count=8&theme=algolia"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayam-mostafa&layout=compact&langs_count=8&theme=algolia&cache_bust=1"/>
       </a>
     </td>
   </tr>
