@@ -60,26 +60,6 @@
 
 <br><br />
 
-
-
-## My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Hayam-mostafa">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hayam-mostafa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_bust=1"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Hayam-mostafa">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayam-mostafa&layout=compact&langs_count=8&theme=algolia&cache_bust=1"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-  <br/><br/><br/>
-
 <p align="center">
   <b><span style="color:#00BFFF; font-size:30px;"> Thank you for visiting my profile — Happy Coding! 💙</span></b>
 </p>
