@@ -14,19 +14,19 @@
   🚀 I enjoy solving complex problems, exploring new technologies, and working with great teams to create impactful projects.<br>
 </p>
 
+<h2> Skills </h2>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<div align="center">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML icon" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="icon" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="icon" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="icon" width="50" height="50" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
 </div>
 </div>
 
