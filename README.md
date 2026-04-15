@@ -8,7 +8,7 @@
 <p align="left">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" align="right" />
   👋 Hi there! I'm Hayam Mostafa.<br>
-  🎓 I’m a senior student at the Faculty of Computers and Information, currently in my fourth (final) year.<br>
+  🎓 I’m a senior student at the Faculty of Computers and Information, currently in my fourth year.<br>
   🤖 Passionate about Artificial Intelligence & Machine Learning.<br>
   💻 Aspiring AI, ML & Deep Learning Engineer ready to turn ideas into real-world solutions.<br>
   🚀 I enjoy solving complex problems, exploring new technologies, and working with great teams to create impactful projects.<br>
