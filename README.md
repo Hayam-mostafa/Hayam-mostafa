@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&pause=1000&lines=Hi,+I'm+Hayam!;Welcome+to+my+GitHub+Profile+😊" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&pause=1000&lines=Hi,+I'm+Hayam" />
 </h1>
 
 ## About Me 👩‍💻
